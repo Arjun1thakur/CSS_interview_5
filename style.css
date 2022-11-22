@@ -78,7 +78,7 @@ li{color: red;}
         transform:scaleX(1);
     }
 }
-@media (min-width:360px) and (max-width:600px){
+@media (min-width:360px) and (max-width:800px){
     .main{
         grid-template-columns: 100%  ;
         text-align: center;
